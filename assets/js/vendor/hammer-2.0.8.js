@@ -1,7 +1,7 @@
 /*! Hammer.JS - v2.0.8 - 2016-04-23
  * http://hammerjs.github.io/
  *
- * Copyright (c) 2022 Jorik Ongar.dev;
+ * Copyright (c) 2022 Ongar.dev;
  * Licensed under the MIT license */
 (function(window, document, exportName, undefined) {
   'use strict';
