@@ -50,3 +50,17 @@ h1 {
   background-repeat: no-repeat;
   box-sizing: border-box;
 }
+
+.dream-big {
+  background-image: url("images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  box-sizing: border-box;
+}
+
+.experience-area {
+  background-image: url("images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  box-sizing: border-box;
+}
