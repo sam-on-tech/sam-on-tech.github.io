@@ -44,3 +44,9 @@ h1 {
   padding: 10px 20px;
   border-radius: 5px;
 }
+
+.top-banner {
+  background-image: url("images/top-banner.png");
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
