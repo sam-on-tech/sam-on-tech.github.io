@@ -2,4 +2,15 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+h1 {
+  font-size: 50px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.orange-color {
+  color: orange;
+}
 
